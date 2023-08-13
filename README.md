@@ -26,4 +26,4 @@ While the current focus is on English-to-Chinese translation, this repository ha
 
 ## License
 
-This repository [is licensed](LICENSE) under the [GNU General Public License (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html).
+This repository [is licensed](LICENSE) under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
