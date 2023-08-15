@@ -19,6 +19,8 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Override        | 重写                |
 | Inheritance     | 继承                |
 | Polymorphism    | 多态                |
+| Interface       | 接口                |
+| String          | 字符串              |
 
 ## Multilingual Expansion
 
