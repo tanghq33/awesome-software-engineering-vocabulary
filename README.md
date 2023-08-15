@@ -21,6 +21,7 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Polymorphism    | 多态                |
 | Interface       | 接口                |
 | String          | 字符串              |
+| Script          | 脚本                |
 
 ## Multilingual Expansion
 
