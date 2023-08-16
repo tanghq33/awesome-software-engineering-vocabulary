@@ -22,6 +22,7 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Interface       | 接口                |
 | String          | 字符串              |
 | Script          | 脚本                |
+| Debug           | 调试                |
 
 ## Multilingual Expansion
 
