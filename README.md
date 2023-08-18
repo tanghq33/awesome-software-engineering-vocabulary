@@ -23,6 +23,8 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | String          | 字符串              |
 | Script          | 脚本                |
 | Debug           | 调试                |
+| Array           | 数组                |
+| Matrix          | 矩阵                |
 
 ## Multilingual Expansion
 
