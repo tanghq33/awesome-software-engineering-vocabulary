@@ -24,6 +24,8 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Script          | 脚本                |
 | Debug           | 调试                |
 | Enter           | 回车                |
+| Array           | 数组                |
+| Matrix          | 矩阵                |
 
 ## Multilingual Expansion
 
