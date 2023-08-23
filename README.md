@@ -29,6 +29,7 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Queue           | 队列                |
 | Thread          | 线程                |
 | Parameter       | 参数                |
+| Class           | 类                  |
 
 
 ## Multilingual Expansion
