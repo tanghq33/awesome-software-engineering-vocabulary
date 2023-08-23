@@ -30,6 +30,9 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Thread          | 线程                |
 | Parameter       | 参数                |
 | Class           | 类                  |
+| Software        | 软件                |
+| Hardware        | 硬件                |
+
 
 
 ## Multilingual Expansion
