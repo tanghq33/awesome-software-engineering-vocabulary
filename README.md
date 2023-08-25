@@ -32,6 +32,7 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Class           | 类                  |
 | Software        | 软件                |
 | Hardware        | 硬件                |
+| Breakpoint      | 断点                |
 
 
 
