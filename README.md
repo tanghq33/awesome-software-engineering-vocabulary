@@ -16,23 +16,24 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 
 | English Term    | Chinese Translation |
 |-----------------|---------------------|
-| Override        | 重写                |
-| Inheritance     | 继承                |
-| Polymorphism    | 多态                |
-| Interface       | 接口                |
-| String          | 字符串              |
-| Script          | 脚本                |
+| Array           | 数组                |
+| Breakpoint      | 断点                |
+| Class           | 类                  |
+| Collection      | 合集                |
 | Debug           | 调试                |
 | Enter           | 回车                |
-| Array           | 数组                |
-| Matrix          | 矩阵                |
-| Queue           | 队列                |
-| Thread          | 线程                |
-| Parameter       | 参数                |
-| Class           | 类                  |
-| Software        | 软件                |
 | Hardware        | 硬件                |
-| Breakpoint      | 断点                |
+| Inheritance     | 继承                |
+| Interface       | 接口                |
+| Matrix          | 矩阵                |
+| Override        | 重写                |
+| Parameter       | 参数                |
+| Polymorphism    | 多态                |
+| Queue           | 队列                |
+| Script          | 脚本                |
+| Software        | 软件                |
+| String          | 字符串              |
+| Thread          | 线程                |
 
 
 
