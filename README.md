@@ -34,8 +34,8 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Software        | 软件                |
 | String          | 字符串              |
 | Thread          | 线程                |
-
-
+| Deadlock        | 死锁                |
+| Race Condition  | 竞态条件             |
 
 ## Multilingual Expansion
 
