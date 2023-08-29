@@ -36,6 +36,8 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Thread          | 线程                |
 | Deadlock        | 死锁                |
 | Race Condition  | 竞态条件             |
+| Parallel Programming  | 并行编程       |
+| Concurrent Programming  | 并发编程       |
 
 ## Multilingual Expansion
 
