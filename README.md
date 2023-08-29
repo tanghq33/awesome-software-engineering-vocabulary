@@ -14,30 +14,30 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 
 ## Vocabulary Table
 
-| English Term    | Chinese Translation |
-|-----------------|---------------------|
-| Array           | 数组                |
-| Breakpoint      | 断点                |
-| Class           | 类                  |
-| Collection      | 合集                |
-| Debug           | 调试                |
-| Enter           | 回车                |
-| Hardware        | 硬件                |
-| Inheritance     | 继承                |
-| Interface       | 接口                |
-| Matrix          | 矩阵                |
-| Override        | 重写                |
-| Parameter       | 参数                |
-| Polymorphism    | 多态                |
-| Queue           | 队列                |
-| Script          | 脚本                |
-| Software        | 软件                |
-| String          | 字符串              |
-| Thread          | 线程                |
-| Deadlock        | 死锁                |
-| Race Condition  | 竞态条件             |
-| Parallel Programming  | 并行编程       |
-| Concurrent Programming  | 并发编程       |
+| English Term           | Chinese Translation |
+| ---------------------- | ------------------- |
+| Array                  | 数组                |
+| Breakpoint             | 断点                |
+| Class                  | 类                  |
+| Collection             | 合集                |
+| Concurrent Programming | 并发编程            |
+| Deadlock               | 死锁                |
+| Debug                  | 调试                |
+| Enter                  | 回车                |
+| Hardware               | 硬件                |
+| Inheritance            | 继承                |
+| Interface              | 接口                |
+| Matrix                 | 矩阵                |
+| Override               | 重写                |
+| Parallel Programming   | 并行编程            |
+| Parameter              | 参数                |
+| Polymorphism           | 多态                |
+| Queue                  | 队列                |
+| Race Condition         | 竞态条件            |
+| Script                 | 脚本                |
+| Software               | 软件                |
+| String                 | 字符串              |
+| Thread                 | 线程                |
 
 ## Multilingual Expansion
 
