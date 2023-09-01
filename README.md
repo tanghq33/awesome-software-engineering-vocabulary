@@ -18,6 +18,7 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | ---------------------- | ------------------- |
 | Array                  | 数组                |
 | Breakpoint             | 断点                |
+| Buffer                 | 缓存                |
 | Class                  | 类                  |
 | Collection             | 合集                |
 | Concurrent Programming | 并发编程            |
@@ -38,6 +39,7 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Software               | 软件                |
 | String                 | 字符串              |
 | Thread                 | 线程                |
+| Variable               | 变量                |
 
 ## Multilingual Expansion
 
