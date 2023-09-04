@@ -19,6 +19,7 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Array                  | 数组                |
 | Breakpoint             | 断点                |
 | Buffer                 | 缓存                |
+| Cache                  | 缓存                |
 | Class                  | 类                  |
 | Collection             | 合集                |
 | Concurrent Programming | 并发编程            |
@@ -33,6 +34,7 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Parallel Programming   | 并行编程            |
 | Parameter              | 参数                |
 | Polymorphism           | 多态                |
+| Programming            | 编程                |
 | Queue                  | 队列                |
 | Race Condition         | 竞态条件            |
 | Script                 | 脚本                |
