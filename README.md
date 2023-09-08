@@ -29,10 +29,12 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Hardware               | 硬件                |
 | Inheritance            | 继承                |
 | Interface              | 接口                |
+| Loop                   | 循环                |
 | Matrix                 | 矩阵                |
 | Override               | 重写                |
 | Parallel Programming   | 并行编程            |
 | Parameter              | 参数                |
+| Polling                | 轮询                |
 | Polymorphism           | 多态                |
 | Programming            | 编程                |
 | Queue                  | 队列                |
