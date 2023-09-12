@@ -41,9 +41,11 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Race Condition         | 竞态条件            |
 | Script                 | 脚本                |
 | Software               | 软件                |
+| Static Variable        | 静态变量            |
 | String                 | 字符串              |
 | Thread                 | 线程                |
 | Variable               | 变量                |
+
 
 ## Multilingual Expansion
 
