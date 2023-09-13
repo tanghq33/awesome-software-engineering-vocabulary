@@ -34,17 +34,20 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | Override               | 重写                |
 | Parallel Programming   | 并行编程            |
 | Parameter              | 参数                |
+| Plugin                 | 插件                |
 | Polling                | 轮询                |
 | Polymorphism           | 多态                |
 | Programming            | 编程                |
 | Queue                  | 队列                |
 | Race Condition         | 竞态条件            |
+| Runtime                | 运行时              |
 | Script                 | 脚本                |
 | Software               | 软件                |
 | Static Variable        | 静态变量            |
 | String                 | 字符串              |
 | Thread                 | 线程                |
 | Variable               | 变量                |
+
 
 
 ## Multilingual Expansion
