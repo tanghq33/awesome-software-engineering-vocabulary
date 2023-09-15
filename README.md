@@ -47,6 +47,7 @@ Let's work together to make this vocabulary list comprehensive and accurate!
 | String                 | 字符串              |
 | Thread                 | 线程                |
 | Variable               | 变量                |
+| Stack Trace            | 堆栈轨迹            |
 
 
 
